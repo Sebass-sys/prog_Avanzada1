@@ -6,4 +6,5 @@ Integrantes:
 3. Pendiente
 
 Proyecto:
+versión 2.0 obrigados
 Aplicación de perfiles del equipo
