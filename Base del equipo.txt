@@ -2,9 +2,9 @@ Equipo de Desarrollo
 
 Integrantes:
 1. Samuel Rodríguez Bermúdez
-2. Sebastian Almarales
+2. Sebastián Almarales
 3. Pendiente
 
 Proyecto:
-versión 2.0 obrigados
+versión 1.0 cambios de sábado
 Aplicación de perfiles del equipo
